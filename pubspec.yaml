@@ -1,6 +1,6 @@
 name: box_container
 description: A Flutter package to directly use when you need to use a box shaped container in your application.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/hirdan/box_container
 
 environment:

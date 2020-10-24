@@ -7,7 +7,7 @@ A Flutter package to directly use when you need to use a box shaped container in
 ## Add dependency
 ```
 dependencies:
-  box_container: ^0.0.2
+  box_container: ^1.0.0
 ```
 
 ## Import
@@ -18,10 +18,10 @@ import 'package:box_container/box_container.dart'
 ## Usage
 ```
 BoxContainer(
-  image='image-url',
-  title='Text',
-  body='Text',
-  buttonTitle='Text',
-  buttonAction='action-url';
+  image:'image-url',
+  title:'Text',
+  body:'Text',
+  buttonTitle:'Text',
+  buttonAction:'action-url';
 )
 ```

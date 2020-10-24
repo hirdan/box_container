@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  box_container: ^0.0.1
+  box_container: ^1.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
