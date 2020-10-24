@@ -1,6 +1,8 @@
 library box_container;
+
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
+
 // ignore: must_be_immutable
 class BoxContainer extends StatefulWidget {
   BoxContainer({
@@ -11,11 +13,13 @@ class BoxContainer extends StatefulWidget {
     this.buttonAction,
     this.buttonTitle,
   }) : super(key: key);
-   String image="https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2018/11/Lorem-Ipsum-alternatives.png.webp",
-      title="Lorem Ipsum",
-      body="Lorem Ipsum",
-      buttonTitle="Lorem Ipsum",
-      buttonAction="https://www.justinmind.com/blog/awesome-lorem-ipsum-alternatives";
+  String image =
+          "https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2018/11/Lorem-Ipsum-alternatives.png.webp",
+      title = "Lorem Ipsum",
+      body = "Lorem Ipsum",
+      buttonTitle = "Lorem Ipsum",
+      buttonAction =
+          "https://www.justinmind.com/blog/awesome-lorem-ipsum-alternatives";
 
   @override
   _BoxContainerState createState() => _BoxContainerState();
