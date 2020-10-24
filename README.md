@@ -7,7 +7,7 @@ A Flutter package to directly use when you need to use a box shaped container in
 ## Add dependency
 ```
 dependencies:
-  box_container: ^0.0.1
+  box_container: ^0.0.2
 ```
 
 ## Import
