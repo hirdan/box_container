@@ -2,6 +2,8 @@
 
 A Flutter package to directly use when you need to use a box shaped container in your application.
 
+![Example App](https://github.com/hirdan/box_container/blob/main/example/Asset/example.jpg?raw=true)
+
 ## Add dependency
 ```
 dependencies:
